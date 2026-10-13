@@ -37,3 +37,13 @@ frontend/.playwright/
 # Snowflake schema export (temp.py)
 snowflake-out/
 temp.py
+
+# Configuracion local de herramientas de IA y archivos de trabajo (no se versionan)
+.claude/
+.agents/
+.codex/
+.planning/
+CLAUDE.md
+.graphifyignore
+mega_prompt.md
+/package-lock.json

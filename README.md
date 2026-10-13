@@ -1,5 +1,7 @@
 # Capital One Business — HackMTY 2026 (reto Capital One)
 
+🏅 **5° lugar en HackMTY 2026** (reto de Capital One).
+
 Inteligencia de flujo de efectivo y capital de trabajo para micro-negocios.
 El dueño vende con QR y compra con su tarjeta de negocio; la app lleva sola el
 inventario (recetas, costo promedio), la contabilidad de partida doble, los
